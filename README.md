@@ -1,2 +1,1 @@
-# Loan Data Machine Learning
-
+# Loan Approval Prediction Model
